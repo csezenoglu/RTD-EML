@@ -2,13 +2,27 @@
 Introduction
 ============
 
-Different coilgun names:
+.. written begin
+
+.. rubric:: History
+
+The basic physics of magnetic accelerators, in other words electromagnetic launchers (EML) has been well understood since Maxwell's time late in 19th century. Then, rotary magnetic motors such as the common induction motors have been more popular for decades. However, EMLs have not received the same attention. It is only in the 1970s that they have been seriously investigated. By these years it has had two major difficulties. First, the windings of all motors were wound around a ferromagnetic material such as iron and alloys. But, EMLs must operate above 10 tesla that iron and its alloys will saturate in this region. In addition, iron-free construction was very difficult because of the presence of extreme structural forces. Second, the extremely high electrical power input needed makes it difficult to operate. For instance, the acceleration energy of over 10 MJ must be stored and then delivered in less than a millisecond :cite:`mongeau:1982`.
+
+.. rubric:: Classification
+
+In the literature, there are two main types of electromagnetic launcher. The main difference of these types that supply current is direct connected to armature (railgun) or induced in the armature (coilgun). For the railguns the armature and stator current, relative position and velocity of each other are independent. For the coilguns hte induced armature current is a fuction of the stator current and its position and velocity :cite:`engel:2017`. Other kinds of launchers and classifications can be found in the literature :cite:`weldon:1989` :cite:`engel:2017`. In this work, induction type electromagnetics launchers are investigated.
+
+.. written end
+
+.. rubric:: Different coilgun names
 
 - Coaxial Launcher (i.e. tubular induction accelerator; circular symmetry implied by the term coaxial)
 - Linear Induction Launcher (LIL): The barrel of the LIL consists of a linear array of coils carrying polyphase currents.
 - Double Sided Induction Accelerator (e.g. Aircraft launcher)
 
 .. Railgun ile coilgun arasındaki yarış ve popülerite
+
+.. rubric:: Railgun vs Coilgun
 
 The current interest in electromagnetic acceleration of masses has resulted in something of a competition between the railguns and coaxial accelerators. If proliferation is any measure of success, railguns presently appear to be leading the competition. Actually, there are several fundamental reasons why the railguns are enjoying their present surge of popularity which in no way reflects inherent superiority over the induction launchers for all applications :cite:`driga:1986`.
 
