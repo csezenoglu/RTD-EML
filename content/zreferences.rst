@@ -11,9 +11,9 @@
 	-Use the labelprefix option, as documented above.
 	-Use a style that has non-numerical labelling, such as :style: alpha.
 	
-==========
+**********
 References
-==========
+**********
 
 .. bibliography:: ../references.bib
 	:style: unsrt

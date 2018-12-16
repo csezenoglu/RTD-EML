@@ -44,7 +44,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Electromagnetic Launchers'
+project = u'Electromagnetic Induction Launchers'
 copyright = u'2018, Ceyhun Sezenoglu'
 author = 'Ceyhun Sezenoglu'
 

@@ -1,6 +1,6 @@
-=========================
+*************************
 Linear Induction Launcher
-=========================
+*************************
 
 :numref:`n-section-lil` illustrates the arrangement of the major components of the LIL, where: A, B, and C denote the phases; 1,2...i...n denote sections of the barrel; PS1 to PSn are the power supplies for those sections; and the moving part is the projectile sleeve. The barrel coils are given polyphase energization. This creates an electromagnetic wave packet traveling longitudinally with increasing velocity :math:`v_s`, satisfying :cite:`zabar:1989`
 

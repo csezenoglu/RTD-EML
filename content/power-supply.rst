@@ -1,5 +1,6 @@
+************
 Power Supply
-============
+************
 
 Driga et al. describes efforts to solve forcing the accelerator to conform to existing power supplies by pursuing the development of a coaxial launcher with an integrated pulsed power supply designed specifically to meet the requirements of the launcher :cite:`driga:1986`.
 
