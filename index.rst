@@ -19,6 +19,12 @@ Table of Contents:
    content/applications
    content/zreferences
 
+.. toctree::
+   :maxdepth: 2
+   :caption: APPENDICES
+
+   appendices/literature-overview
+
 
 .. Indices and tables
 .. ==================
