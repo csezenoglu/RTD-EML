@@ -2,47 +2,27 @@
 Introduction
 ************
 
-.. contents:: Table of Contents
+[T] In the literature, there are two main types of electromagnetic launcher. The main difference of these types that supply current is *direct connected* to armature (**railgun**) or *induced* in the armature (**coilgun**). For the railguns the armature and stator current, relative position and velocity of each other are independent. For the coilguns hte induced armature current is a fuction of the stator current and its position and velocity :cite:`engel:2017`. Other kinds of launchers and **classifications** can be found in the literature :cite:`weldon:1989` :cite:`engel:2017`. 
 
-.. written begin
+[T][C] Electromagnetic induction launchers or accelerators have been called with different names in the literature: coaxial, tubular induction or magnetic accelerator. The name “θ-gun” was coined in 1982 [Burgees and Snare, 1982] and a more inclusive manner coilgun in 1987 [Snow, 1987] [Zabar and Joshi, 1987]. 
 
-In the literature, there are two main types of electromagnetic launcher. The main difference of these types that supply current is *direct connected* to armature (**railgun**) or *induced* in the armature (**coilgun**). For the railguns the armature and stator current, relative position and velocity of each other are independent. For the coilguns hte induced armature current is a fuction of the stator current and its position and velocity :cite:`engel:2017`. Other kinds of launchers and **classifications** can be found in the literature :cite:`weldon:1989` :cite:`engel:2017`. In this work, induction type electromagnetics launchers are investigated. 
+[T][C] There are three types of electromagnetic induction launcher concepts in the development stage [Haghmaram and Shoulaie, 2004]: the wound armature pulsed induction accelerator [Ingram et al., 1991], the solid armature pulsed induction coilgun [Kaye et al., 1991], and the travelling wave linear induction launcher (LIL) [Zabar et al., 1989].
 
-Electromagnetic induction launchers or accelerators have been called with different names in the literature: coaxial, tubular induction, magnetic or in a more inclusive manner coilgun.
+.. history
 
-History
-=======
+[T] The basic physics of magnetic accelerators, in other words electromagnetic launchers (EML) has been well understood since Maxwell's time late in 19th century. Then, rotary magnetic motors such as the common induction motors have been more popular for decades. However, EMLs have not received the same attention :cite:`mongeau:1982`.
 
-The basic physics of magnetic accelerators, in other words electromagnetic launchers (EML) has been well understood since Maxwell's time late in 19th century. Then, rotary magnetic motors such as the common induction motors have been more popular for decades. However, EMLs have not received the same attention. It is only in the 1970s that they have been seriously investigated. By these years it has had two major difficulties. First, the windings of all motors were wound around a ferromagnetic material such as iron and alloys. But, EMLs must operate above 10 tesla that iron and its alloys will saturate in this region. In addition, iron-free construction was very difficult because of the presence of extreme structural forces. Second, the extremely high electrical power input needed makes it difficult to operate. For instance, the acceleration energy of over 10 MJ must be stored and then delivered in less than a millisecond :cite:`mongeau:1982`.
+[T][C] A mechanically synchronized discrete coil was built by Northrup in the thirties. A traveling wave accelerator that use superconducting projectiles was proposed by Winterberg in 1966. In 1972, a brush-commutated helical accelerator was proposed by Thom and Norwood. In 1976, the first actively synchronized mass driver which use discrete coils with solid-state commutation was built by Kolm and O’Neill. In 1978 Bondaletov accelerated 2-gram aluminum rings to 5 km/s in a 1 cm length by pulsed induction. Kemmey, Gora and Snow invented a self-storing, brush-commutated, double helix launcher in 1981. A tubular launcher driven by flux compression generators that would accelerate hollow projectiles guided and reinforced by an internal mandrel was proposed by Cowan’s group in 1984 [Kolm and Mongeau, 1984] [Haghmaram and Shoulaie, 2004].
 
-A theoretical and experimental investigation of coaxial air core launchers that were driven by capacitor bank was performed by Mongeau in his thesis. Experimental test was done by a helical railgun and discrete coil launchers  :cite:`mongeau:1982`.
+[T] In other words, it is only in the 1970s that they have been seriously investigated. By these years it has had two major difficulties. First, the windings of all motors were wound around a ferromagnetic material such as iron and alloys. But, EMLs must operate above 10 tesla that iron and its alloys will saturate in this region. In addition, iron-free construction was very difficult because of the presence of extreme structural forces. Second, the extremely high electrical power input needed makes it difficult to operate. For instance, the acceleration energy of over 10 MJ must be stored and then delivered in less than a millisecond :cite:`mongeau:1982`.
 
-.. written end
+[C] A theoretical and experimental investigation of coaxial air core launchers that were driven by capacitor bank was performed by Mongeau in his thesis. Experimental test was done by a helical railgun and discrete coil launchers  :cite:`mongeau:1982`.
 
-.. Railgun ile coilgun arasındaki yarış ve popülerite
+.. indüksiyon fırlatıcılar sınıfına değiniyor. anahtarlamalı ve anahtarlamasız (yürüyen dalga ile, bizimki gibi) olarak ikiye ayırmış.
 
-Railgun vs Coilgun
-==================
+# Using specific force as a type indicator for the IND-class EMLs is not useful, since all launchers in this class have VSF due to the variable coupling between the armature and stator. Additionally, the variable coupling causes the induced armature current to be variable so that the force expression will have the form given as [12] F ∝ ia(x)is Fs(x) (3) where ia(x) is the variable armature current. The launchers of this class use the method of commutation as a type designator, since this is what differentiates them. The various stator coils of an induction coil launcher, for example, are externally commutated (or switched) as the armature passes the stator, whereas the linear induction motor (referred to as the asynchronous induction coil launcher in [1]) is not commutated at all but rides a traveling wave. The names for these types are switched (SWI) and unswitched (USW) :cite:`engel:2017`.
 
-The current interest in electromagnetic acceleration of masses has resulted in something of a competition between the railguns and coaxial accelerators. If proliferation is any measure of success, railguns presently appear to be leading the competition. Actually, there are several fundamental reasons why the railguns are enjoying their present surge of popularity which in no way reflects inherent superiority over the induction launchers for all applications :cite:`driga:1986`.
 
-.. Railgun basit olduğu için ilk olarak o geliştirilmiştir ve kolayca üretilebilir
-.. Railgun ın inductance gradient i boyuttan bağımsızdır ancak coilgun da değişir bu yüzden küçük boyutlarda iyi performanslı coilgun üretmek zordur.
-
-Railguns are the simplest of the electromagnetic launchers and it is natural that they should be developed first. They undoubtedly benefit from the fact that virtually anyone with access to a laboratory or shop can quickly fabricate a small railgun which will accelerate a projectile. This advantage of simplicity is compounded by the scaling relationships for the two concepts. Whereas the inductance gradient of the railgun is essentially independent of scale, the comparable gradient for induction launchers is quite sensitive to it, improving dramatically in larger accelerators. Thus, it is quite difficult to build a small-scale coaxial launcher with impressive performance :cite:`driga:1986`.
-
-.. Railgun farklı uygulamalar için geliştirilmiş darbe homopolar güç kaynağını bir anahtar yardımıyla kullanabilir. 
-.. İndüksiyon fırlatıcılar ise bu bakış açısı ile varolan güç kaynaklarını kullanabilmek için üzerinde çalışılmaktadır.
-
-Moreover, the railgun has had the benefit of the existence of the pulsed homopolar generator in conjunction with an inductor and an opening switch, an inherently compatible power supply, that had been developed for other programs. The induction launchers enjoyed no such serendipitous benefit and have suffered as a result. In fact, much of the effort expended on the development of coaxial accelerators to date, when viewed in this light, appears to have been directed toward forcing the accelerator to conform to existing power supplied :cite:`driga:1986`.
-
-Potential benefits of coilgun:
-
-- Increased efficiency
-- Greater freedom of projectile design
-- Elimination of switching and synchronization requirements
-
-Among so many variants, few have merit as simple and efficient accelerators. We will limit ourselves to the double sided induction accelerator, and the tubular accelerator :cite:`driga:1986`.
 
 Only the tubular induction accelerator has the circular symmetry implied by the term coaxial as shown in :numref:`tubular-induction-accelerator` :cite:`driga:1986`.
 
