@@ -24,47 +24,8 @@ Introduction
 
 
 
-Only the tubular induction accelerator has the circular symmetry implied by the term coaxial as shown in :numref:`tubular-induction-accelerator` :cite:`driga:1986`.
 
-.. figure:: ../img/tubular-induction-accelerator.png
-    :align: center
-    :scale: 100 %
-    :name: tubular-induction-accelerator
 
-    : Tubular induction accelerator.
-
-From the theory of the conventional rotating induction motors it is known that their energy efficiency for starting operation expressed in energy terms is less than 50%. For each unit of energy stored kinetically in the rotor, a greater amount is dissipated in the Joule heating of the rotor by slip losses :cite:`driga:1986`.
-
-In exactly the same manner[4], a projectile accelerated from rest by a constant speed traveling field will be subject to the same slip losses, which amount to :math:`W_{PJ}`, for the entire launch period. Actually the projectile does not reach the speed of traveling field and the energy loss is (:numref:`single-stage-acceleration`) :cite:`driga:1986`
-
-.. math::
-    :label: W_pj
-
-    W_{PJ} = \int_0^{v_{TF}} m_p (v_{TF}-v) dv = m_p (v_{TF} v_m - \frac{v_m^2}{2})
-
-where :math:`m_p` is the projectile mass [kg], :math:`v_{TF}` is the speed of travelling field [m/s], :math:`v` is the instantaneous speed of projectile [m/s] and :math:`v_m` is the projectile output velocity (at the muzzle of the launcher).
-
-.. figure:: ../img/single-stage-acceleration.png
-    :align: center
-    :scale: 100 %
-    :name: single-stage-acceleration
-
-    : Single-stage acceleration.
-
-For a two stage system (:numref:`two-stage-acceleration`) comprising two traveling field speeds, the energy loss decreases considerably :cite:`driga:1986`.
-
-.. figure:: ../img/two-stage-acceleration.png
-    :align: center
-    :scale: 100 %
-    :name: two-stage-acceleration
-
-    : Two-stage acceleration.
-
-.. Birden fazla bölümden oluşan fırlatıcının daha verimli olduğundan bahsediyor.
-
-The number of stages can be further increased which would considerably increase the energy efficiency and reduce to a minimum the Joule loss in the projectile. At the limit this corresponds to a continuous increase in the pole pitch or a continuous change in the frequency of the currents producing the traveling field (Fig 3 c ) :cite:`driga:1986`.
-
-The variable pitch winding, which sometimes is called a graded winding, is fabricated by increasing the coil spacings - thus increasing the traveling field velocity towards the end of the launcher – for the tubular construction :cite:`driga:1986`.
 
 .. RFG anlatılmış
 

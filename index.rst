@@ -14,6 +14,7 @@ Table of Contents:
    :numbered:
 
    content/introduction
+   content/operation-principles
    content/lil
    content/power-supply
    content/applications

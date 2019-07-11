@@ -12,3 +12,7 @@ Aircraft launcher
 =================
 
 A half-scale aircraft launcher (Nimitz-class electromagnetic aircraft launcher) was designed to achieve a continuous 5 g acceleration of an 8182 kg load. In addition, it acts as an electromagnetic brake that stops the shuttle :cite:`driga:1986`. 
+
+.. bu makaleyi bulup bu sekmeye bilgisi girilecek
+
+#  However, one of the earliest applications of the short stator variant of an induction accelerator was the Westinghouse aircraft launcher, under the name "Electropult" (1946) [7]-> A Wound Rotor Motor" 1,400 ft. long, Westinghouse, Engineer, 1946, (pp. 760-764).
