@@ -16,3 +16,5 @@ A half-scale aircraft launcher (Nimitz-class electromagnetic aircraft launcher) 
 .. bu makaleyi bulup bu sekmeye bilgisi girilecek
 
 #  However, one of the earliest applications of the short stator variant of an induction accelerator was the Westinghouse aircraft launcher, under the name "Electropult" (1946) [7]-> A Wound Rotor Motor" 1,400 ft. long, Westinghouse, Engineer, 1946, (pp. 760-764).
+
+1995 Electromagnetic aircraft launch system-EMALS

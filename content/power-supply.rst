@@ -18,3 +18,7 @@ Homopolar Generator
 
 # By matching the generator voltage, frequency, rotor and stator inertias, and initial velocities to the requirements of the coaxial accelerator, or integrated power supply/accelerator system can be designed. An ixportant part of this integration is done by mounting the pulse generator excitation source (i.e., homopolar generator) on the same shaft as the pulse generator thus forminga "cascade" of electrical machines essential to obtaining the proper electromechanical energy conversion :cite:`driga:1986`.
 
+Disk Alternator
+===============
+
+1995 Electromagnetic aircraft launch system-EMALS

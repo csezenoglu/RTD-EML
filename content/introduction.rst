@@ -22,10 +22,21 @@ Introduction
 
 # Using specific force as a type indicator for the IND-class EMLs is not useful, since all launchers in this class have VSF due to the variable coupling between the armature and stator. Additionally, the variable coupling causes the induced armature current to be variable so that the force expression will have the form given as [12] F ∝ ia(x)is Fs(x) (3) where ia(x) is the variable armature current. The launchers of this class use the method of commutation as a type designator, since this is what differentiates them. The various stator coils of an induction coil launcher, for example, are externally commutated (or switched) as the armature passes the stator, whereas the linear induction motor (referred to as the asynchronous induction coil launcher in [1]) is not commutated at all but rides a traveling wave. The names for these types are switched (SWI) and unswitched (USW) :cite:`engel:2017`.
 
+.. rubric:: Other Notes (will be rearranged):
 
+.. fırlatıcılar ile kırılmış hız rekorları
 
+# Contrary to general expectations, however, initial hopes have not materialized yet, the projectile velocity records remaining essentially unbroken: for railguns 5.7 km/sec obtained by Richard Marshal and coworkers at the Australian National University at Canberra (1970) [2], and for coilguns, 4.9 km/sec in one single stage obtained by V.N. Bondoletov and coworkers in 1975 in the Soviet Union [3]. [1990 PhD Magnetic flux compression-expansion duality in electromechanical hypervelocity launchers and power supplies Analytical and numerical methods]
 
+.. homopolar generatorlerin mantıksız seçim olduğuna değiniliyor
 
+# The choice for homopolar generators is also questionable since they are known for their low voltage and low power density. A recent study (under auspices of D.C. Hardison Panel) has shown that homopolar machines are not well suited for electromagnetic launching applications. (Elliott [6]). The actual power supply consists not only of the homopolar machines, but includes heavy and voluminous inductors in which magnetic energy is transiently stored and explosive opening switches which actually provide the high voltage necessary in order to drive high currents into railguns (though at a very low efficiency compared to alternative capacitor schemes). For Richard Marshall and coworkers at Canberra [2], the homopolar generator was existent and the only choice [1990 PhD Magnetic flux compression-expansion duality in electromechanical hypervelocity launchers and power supplies Analytical and numerical methods].
+
+.. tezin sonuç kısmı, ne yaptığını anlatmak için iyi olabilir.
+
+# A magnetic flux expansion - flux compression duality is proposed as the basic method of approach to electromechanical hypervelocity macropartide accelerators and their electromechanical power supplies. This duality as the method of approach is justified by the highly transient nature and rapidly changing electromagnetic structure of hypervelodty launchers during the acceleration of the projectile and of the magnetic compressors (acting as power supplies) during the discharge being an actualization and an updating of the steady-state motor - generator duality from the classical theory of electric machinery. [1990 PhD Magnetic flux compression-expansion duality in electromechanical hypervelocity launchers and power supplies Analytical and numerical methods].
+
+# The characteristics of flux compression - flux expansion devices are shown to be of identical nature, matching redprocally in an almost ideal manner. [1990 PhD Magnetic flux compression-expansion duality in electromechanical hypervelocity launchers and power supplies Analytical and numerical methods].
 
 .. RFG anlatılmış
 
