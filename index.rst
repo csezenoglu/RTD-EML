@@ -27,6 +27,7 @@ Table of Contents:
 
    appendices/literature-overview
    appendices/coilgun-vs-railgun
+   appendices/useful-links
    appendices/winding-configurations
 
 
